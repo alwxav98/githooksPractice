@@ -1,3 +1,4 @@
 <?php
-echo "Hola Mundo usando Git Hooks"; // Falta el punto y coma aquí
+echo "Hola Mundo usando Git Hooks"; 
+echo "Prueba exitosa de githook";
 ?>
