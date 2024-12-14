@@ -1,3 +1,3 @@
 <?php
-echo "Hola Mundo usando Git Hooks";
+echo "Hola Mundo usando Git Hooks"
 ?>
